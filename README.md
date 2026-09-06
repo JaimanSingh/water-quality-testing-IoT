@@ -1,4 +1,4 @@
-# IoT_BasedWaterQualityTestingSystem 💧
+# Water Quality Testing System 💧 - An IoT Project
 
 ## Description
 
